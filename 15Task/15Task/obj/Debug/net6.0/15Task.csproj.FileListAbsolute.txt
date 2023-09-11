@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\15Task\15Task\15Task\bin\Debug\net6.0\15Task.exe
+C:\Users\acer\Desktop\15Task\15Task\15Task\bin\Debug\net6.0\15Task.deps.json
+C:\Users\acer\Desktop\15Task\15Task\15Task\bin\Debug\net6.0\15Task.runtimeconfig.json
+C:\Users\acer\Desktop\15Task\15Task\15Task\bin\Debug\net6.0\15Task.dll
+C:\Users\acer\Desktop\15Task\15Task\15Task\bin\Debug\net6.0\15Task.pdb
+C:\Users\acer\Desktop\15Task\15Task\15Task\obj\Debug\net6.0\15Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\15Task\15Task\15Task\obj\Debug\net6.0\15Task.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\15Task\15Task\15Task\obj\Debug\net6.0\15Task.AssemblyInfo.cs
+C:\Users\acer\Desktop\15Task\15Task\15Task\obj\Debug\net6.0\15Task.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\15Task\15Task\15Task\obj\Debug\net6.0\15Task.dll
+C:\Users\acer\Desktop\15Task\15Task\15Task\obj\Debug\net6.0\refint\15Task.dll
+C:\Users\acer\Desktop\15Task\15Task\15Task\obj\Debug\net6.0\15Task.pdb
+C:\Users\acer\Desktop\15Task\15Task\15Task\obj\Debug\net6.0\15Task.genruntimeconfig.cache
+C:\Users\acer\Desktop\15Task\15Task\15Task\obj\Debug\net6.0\ref\15Task.dll
